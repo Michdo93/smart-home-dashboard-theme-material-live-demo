@@ -6,6 +6,12 @@ Online-Demo des [Smart-Home-Dashboards](https://github.com/Michdo93/Smart-Home-D
 
 Die Demo ist mit einem openHAB 5 verbunden, auf dem das [virtuelle Haus](https://github.com/Michdo93/openHAB-Virtual-Smart-Home) läuft – alles simuliert. Was Sie schalten, sehen andere Besucher live mit. Sperrbildschirm zum Ausprobieren: PIN `1234`.
 
+## In der Demo ausprobieren
+
+- **Zahnrad:** Sprache (Deutsch, Englisch, Französisch), Farbe, hell/dunkel
+- **Schloss:** Sperrbildschirm – die Demo-PIN ist `1234`
+- **Zahlenwerte** (Leistung, Temperatur …) antippen: Verlaufsdiagramm über 6 h, 24 h, 7 Tage
+
 ## Aufbau
 
 ```text
